@@ -1,5 +1,7 @@
 # nixos-protonvpn
 
+NOTICE: This repository has been replaced by https://github.com/emmanuelrosa/erosanix.
+
 `nixos-protonvpn` is a ProtonVPN module for NixOS providing a simple declarative configuration method. It's currently a facade for OpenVPN. Free and paid VPN servers are supported.
 
 Note that this module only provides basic VPN functionality. Advanced ProtonVPN features such as "Kill Switch" are not provided by this module. Of course, feel free to submit improvements. For instance, I would like to reimplement this using WireGuard.
